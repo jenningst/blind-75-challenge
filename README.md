@@ -1,6 +1,6 @@
 # Blind75 Challenge
 
-A curation of my solutions to the [blind 75](https://www.teamblind.com/post/new-year-gift---curated-list-of-top-75-leetcode-questions-to-save-your-time-oam1oreu) questions to guide my programming skills and act as a study guide.
+A curation of my solutions to the [blind 75](https://www.teamblind.com/post/new-year-gift---curated-list-of-top-75-leetcode-questions-to-save-your-time-oam1oreu) questions to guide my programming skills and act as a study guide 🙇🏻‍♂️.
 
 ## Categories
 
